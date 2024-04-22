@@ -19,7 +19,7 @@ ydata_profiling
 sklearn
 ```
 
-## Acknowledgment
+## Acknowledgement
 
 CODSOFT
 
