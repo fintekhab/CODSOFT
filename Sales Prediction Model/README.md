@@ -11,12 +11,12 @@ Kaggle
 ## Libraries Used
 
 ```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-import ydata_profiling
-from ydata_profiling import ProfileReport
+pandas as pd
+matplotlib.pyplot as plt
+numpy as np
+seaborn as sns
+ydata_profiling
+sklearn
 ```
 
 ## Acknowledgment
